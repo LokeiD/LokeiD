@@ -11,7 +11,7 @@ I’m **Diego Fernández**, an undergraduate student in **Systems and Computer E
 - 👯 I’m looking forward to collaborate on open source projects.
 - ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
 - Outside tech, ⚽ I enjoy playing sports  , 🎶 Listening to music is part of my daily routine, 🎬 and I love watching movis in my free time.
-- 📫 Reach out to me at: <a href="https://www.linkedin.com/in/diego-fernandez-alburuqueque-21072a290/">diegoferalb03@gmail.com</a>
+- 📫 Reach out to me at: <a href="https://www.linkedin.com/in/diego-fernandez-alburuqueque-21072a290/">diego-fernandez</a>
 
 ## 🛠️ My Favorite Tools
 
