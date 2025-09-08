@@ -52,7 +52,7 @@ I’m **Diego Fernández**, an undergraduate student in **Systems and Computer E
 
 <p align="center">
 
-  <img width="46.5%" src="https://github-readme-stats.vercel.app/api?username=LokeiD&show_icons=true&theme=tokyonight" />
+  <img width="46.5%" src="https://github-readme-stats.vercel.app/api?username=LokeiD&show_icons=true&theme=tokyonight&hide_border=true" />
   <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com?user=LokeiD&theme=tokyonight&hide_border=true" />
 </p>
 
