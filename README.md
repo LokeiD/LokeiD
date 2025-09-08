@@ -31,7 +31,7 @@ I’m **Diego Fernández**, an undergraduate student in **Systems and Computer E
     <a><img alt="Tailwind CSS" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"></a>
 </p>
 
-### 🗄️ Databases and Cloud Hosting
+### 🗄️ Databases
 <p>
     <a><img alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"></a>
     <a><img alt="SQL Server" src ="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"></a>
