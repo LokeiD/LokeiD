@@ -37,7 +37,7 @@ I’m **Diego Fernández**, an undergraduate student in **Systems and Computer E
     <a><img alt="SQL Server" src ="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"></a>
 </p>
 
-### 💻 Software and Tools
+### 💻 Other Tools and Technologies
 <p>
     <a><img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"></a>
     <a><img alt="Notion" src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"></a>
