@@ -47,3 +47,13 @@ I’m **Diego Fernández**, an undergraduate student in **Systems and Computer E
     <a><img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"></a>
 </p>
 </br>
+
+## 📈 Stats
+
+<p align="center">
+
+  <img width="46.5%" src="https://github-readme-stats.vercel.app/api?username=LokeiD&show_icons=true&theme=tokyonight" />
+  <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com?user=LokeiD&theme=tokyonight&hide_border=true" />
+</p>
+
+<br>
